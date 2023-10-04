@@ -69,7 +69,7 @@ diffutils.x86_64                                                  3.6-6.el8     
 distribution-gpg-keys.noarch                                      1.97-1.el8                                                        @epel     
 dnf.noarch                                                        4.7.0-16.el8_8.alma                                               @System   
 dnf-data.noarch                                                   4.7.0-16.el8_8.alma                                               @System   
-dnf-plugins-core.noarch                                           4.0.21-19.el8_8                                                   @baseos   
+dnf-plugins-core.noarch                                           4.0.21-19.el8_8.alma.1                                            @baseos   
 docbook-dtds.noarch                                               1.0-69.el8                                                        @appstream
 docbook-style-xsl.noarch                                          1.79.2-9.el8                                                      @appstream
 dosfstools.x86_64                                                 4.1-6.el8                                                         @baseos   
@@ -573,7 +573,7 @@ python3-cssselect.noarch                                          0.9.2-10.el8  
 python3-dateutil.noarch                                           1:2.6.1-6.el8                                                     @baseos   
 python3-dbus.x86_64                                               1.2.4-15.el8                                                      @baseos   
 python3-dnf.noarch                                                4.7.0-16.el8_8.alma                                               @System   
-python3-dnf-plugins-core.noarch                                   4.0.21-19.el8_8                                                   @baseos   
+python3-dnf-plugins-core.noarch                                   4.0.21-19.el8_8.alma.1                                            @baseos   
 python3-docopt.noarch                                             0.6.2-15.el8                                                      @epel     
 python3-gpg.x86_64                                                1.13.1-11.el8                                                     @System   
 python3-hawkey.x86_64                                             0.63.0-14.el8_8.alma                                              @System   
@@ -12621,11 +12621,11 @@ python3-django3.noarch                                            3.2.20-1.el8  
 python3-dmidecode.x86_64                                          3.12.3-2.el8                                                      baseos    
 python3-dmlite.x86_64                                             1.15.2-15.el8                                                     epel      
 python3-dnf-plugin-flunk_dependent_remove.noarch                  1.0-5.el8                                                         epel      
-python3-dnf-plugin-modulesync.noarch                              4.0.21-19.el8_8                                                   appstream 
+python3-dnf-plugin-modulesync.noarch                              4.0.21-19.el8_8.alma.1                                            appstream 
 python3-dnf-plugin-perfmetrics.noarch                             1.0-1.el8                                                         epel      
-python3-dnf-plugin-post-transaction-actions.noarch                4.0.21-19.el8_8                                                   baseos    
+python3-dnf-plugin-post-transaction-actions.noarch                4.0.21-19.el8_8.alma.1                                            baseos    
 python3-dnf-plugin-spacewalk.noarch                               2.8.5-11.module_el8.3.0+2053+3ddf2832                             appstream 
-python3-dnf-plugin-versionlock.noarch                             4.0.21-19.el8_8                                                   baseos    
+python3-dnf-plugin-versionlock.noarch                             4.0.21-19.el8_8.alma.1                                            baseos    
 python3-dns.noarch                                                1.15.0-11.el8                                                     baseos    
 python3-dns-lexicon.noarch                                        3.3.17-2.el8                                                      epel      
 python3-dnsgen.noarch                                             1.0.4-1.el8                                                       epel      
@@ -17041,7 +17041,7 @@ yubihsm-shell-devel.x86_64                                        2.4.0-1.el8   
 yubikey-manager.noarch                                            3.1.2-1.20210122gitba049e1.el8                                    epel      
 yubioath-desktop.x86_64                                           5.0.5-3.el8                                                       epel      
 yuicompressor.noarch                                              2.4.8-5.el8                                                       epel      
-yum-utils.noarch                                                  4.0.21-19.el8_8                                                   baseos    
+yum-utils.noarch                                                  4.0.21-19.el8_8.alma.1                                            baseos    
 zabbix40.x86_64                                                   4.0.39-1.el8                                                      epel      
 zabbix40-agent.x86_64                                             4.0.39-1.el8                                                      epel      
 zabbix40-dbfiles-mysql.noarch                                     4.0.39-1.el8                                                      epel      
