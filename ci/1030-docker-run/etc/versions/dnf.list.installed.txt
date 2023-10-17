@@ -1,7 +1,7 @@
 adobe-mappings-cmap.noarch                  20171205-3.el8                                  @appstream
 adobe-mappings-cmap-deprecated.noarch       20171205-3.el8                                  @appstream
 adobe-mappings-pdf.noarch                   20180407-1.el8                                  @appstream
-almalinux-release.x86_64                    8.8-2.el8                                       @baseos   
+almalinux-release.x86_64                    8.8-3.el8                                       @baseos   
 annobin.x86_64                              10.94-1.el8                                     @appstream
 appx-util.x86_64                            0.5-2.el8                                       @epel     
 asciidoc.noarch                             8.6.10-0.5.20180627gitf7c2274.el8               @appstream
