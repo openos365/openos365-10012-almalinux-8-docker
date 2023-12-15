@@ -5183,8 +5183,8 @@ gstreamer1.i686                                                   1.16.1-2.el8  
 gstreamer1.x86_64                                                 1.16.1-2.el8                                                      appstream 
 gstreamer1-devel.i686                                             1.16.1-2.el8                                                      appstream 
 gstreamer1-devel.x86_64                                           1.16.1-2.el8                                                      appstream 
-gstreamer1-plugins-bad-free.i686                                  1.16.1-1.el8                                                      appstream 
-gstreamer1-plugins-bad-free.x86_64                                1.16.1-1.el8                                                      appstream 
+gstreamer1-plugins-bad-free.i686                                  1.16.1-2.el8_9.alma.1                                             appstream 
+gstreamer1-plugins-bad-free.x86_64                                1.16.1-2.el8_9.alma.1                                             appstream 
 gstreamer1-plugins-base.i686                                      1.16.1-2.el8                                                      appstream 
 gstreamer1-plugins-base.x86_64                                    1.16.1-2.el8                                                      appstream 
 gstreamer1-plugins-base-devel.i686                                1.16.1-2.el8                                                      appstream 
