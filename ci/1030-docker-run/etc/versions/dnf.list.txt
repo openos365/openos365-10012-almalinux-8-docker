@@ -609,7 +609,7 @@ python3.11.x86_64                                                 3.11.5-1.el8_9
 python3.11-libs.x86_64                                            3.11.5-1.el8_9                                                    @appstream
 python3.11-pip-wheel.noarch                                       22.3.1-4.el8                                                      @appstream
 python3.11-setuptools-wheel.noarch                                65.5.1-2.el8                                                      @appstream
-python36.x86_64                                                   3.6.8-38.module_el8.5.0+2569+5c5719bc                             @appstream
+python36.x86_64                                                   3.6.8-38.module_el8.9.0+3700+efebe9fd                             @appstream
 qemu-img.x86_64                                                   15:6.2.0-40.module_el8.9.0+3681+41cbbcc0.1.alma.1                 @appstream
 qt5-srpm-macros.noarch                                            5.15.3-1.el8                                                      @appstream
 readline.x86_64                                                   7.0-10.el8                                                        @System   
@@ -2372,7 +2372,7 @@ cpphs.x86_64                                                      1.20.8-4.el8  
 cpputest-devel.x86_64                                             4.0-1.el8                                                         epel      
 cppzmq-devel.x86_64                                               4.4.1-1.el8                                                       epel      
 cpufetch.x86_64                                                   1.03-1.el8                                                        epel      
-cpuid.x86_64                                                      20230505-2.el8                                                    epel      
+cpuid.x86_64                                                      20230614-3.el8                                                    epel      
 cpulimit.x86_64                                                   1:0.2-13.20151118gitf4d2682.el8                                   epel      
 cqrlog.x86_64                                                     2.4.0-5.el8                                                       epel      
 cracklib.i686                                                     2.9.6-15.el8                                                      baseos    
@@ -9623,7 +9623,7 @@ nbdkit-tar-plugin.x86_64                                          1.24.0-5.modul
 nbdkit-tmpdisk-plugin.x86_64                                      1.24.0-5.module_el8.8.0+3485+7cffc4a3                             appstream 
 nbdkit-vddk-plugin.x86_64                                         1.24.0-5.module_el8.8.0+3485+7cffc4a3                             appstream 
 nbdkit-xz-filter.x86_64                                           1.24.0-5.module_el8.8.0+3485+7cffc4a3                             appstream 
-nbtscan.x86_64                                                    1.5.1-22.el8                                                      epel      
+nbtscan.x86_64                                                    1.7.2-1.el8                                                       epel      
 ncdu.x86_64                                                       1.19-1.el8                                                        epel      
 ncftp.x86_64                                                      2:3.2.5-18.el8                                                    epel      
 ncl.x86_64                                                        6.6.2-12.el8                                                      epel      
@@ -12211,7 +12211,7 @@ python-multilib-conf.noarch                                       1.2-10.el8    
 python-mysqlclient-doc.x86_64                                     1.4.6-3.el8                                                       epel      
 python-ncclient-doc.noarch                                        0.6.15-1.el8                                                      epel      
 python-neovim-doc.noarch                                          0.4.3-1.el8                                                       epel      
-python-nose-docs.noarch                                           1.3.7-31.module_el8.6.0+2781+fed64c13                             appstream 
+python-nose-docs.noarch                                           1.3.7-31.module_el8.9.0+3700+efebe9fd                             appstream 
 python-notify2-doc.noarch                                         0.3.1-7.el8                                                       epel      
 python-oletools-doc.noarch                                        0.56.2-1.el8                                                      epel      
 python-opentracing-doc.noarch                                     2.4.0-2.el8                                                       epel      
@@ -12232,7 +12232,7 @@ python-pygraphviz-doc.noarch                                      1.6-1.el8     
 python-pymeeus-doc.noarch                                         0.3.6-2.el8                                                       epel      
 python-pymilter-common.noarch                                     1.0.4-3.el8                                                       epel      
 python-pymilter-selinux.noarch                                    1.0.4-3.el8                                                       epel      
-python-pymongo-doc.noarch                                         3.7.0-1.module_el8.5.0+2569+5c5719bc                              appstream 
+python-pymongo-doc.noarch                                         3.7.0-1.module_el8.9.0+3700+efebe9fd                              appstream 
 python-pyperclip-doc.noarch                                       1.8.2-2.el8                                                       epel      
 python-pyrsistent-doc.noarch                                      0.17.3-6.el8                                                      epel      
 python-pysaml2-doc.noarch                                         6.1.0-4.el8                                                       epel      
@@ -12251,7 +12251,7 @@ python-shodan-doc.noarch                                          1.23.0-1.el8  
 python-sortedcontainers-doc.noarch                                2.4.0-1.el8                                                       epel      
 python-sphinx_ansible_theme-doc.noarch                            0.3.2-1.el8                                                       epel      
 python-sphinxcontrib-asyncio-doc.noarch                           0.2.0-2.el8                                                       epel      
-python-sqlalchemy-doc.noarch                                      1.3.2-2.module_el8.6.0+2781+fed64c13                              appstream 
+python-sqlalchemy-doc.noarch                                      1.3.2-2.module_el8.9.0+3700+efebe9fd.1                            appstream 
 python-stem-doc.noarch                                            1.8.0-8.el8                                                       epel      
 python-sybil-doc.noarch                                           1.2.2-1.el8                                                       epel      
 python-sysv_ipc-examples.x86_64                                   1.0.1-1.el8                                                       epel      
@@ -12263,7 +12263,7 @@ python-treq-doc.noarch                                            18.6.0-1.el8  
 python-txaio-doc.noarch                                           18.8.1-7.el8                                                      epel      
 python-typeshed.noarch                                            1:0.1-0.20191011git2.el8                                          epel      
 python-verboselogs-doc.noarch                                     1.7-5.el8                                                         epel      
-python-virtualenv-doc.noarch                                      15.1.0-22.module_el8.8.0+3505+572914d3                            appstream 
+python-virtualenv-doc.noarch                                      15.1.0-22.module_el8.9.0+3700+efebe9fd                            appstream 
 python-websockify-doc.noarch                                      0.11.0-1.el8                                                      epel      
 python-wrapt-doc.x86_64                                           1.11.2-4.el8                                                      epel      
 python-wxpython4-doc.noarch                                       4.0.7-13.el8                                                      epel      
@@ -12425,7 +12425,7 @@ python3-IPy.noarch                                                1.00-3.el8    
 python3-Levenshtein.x86_64                                        0.12.0-11.el8                                                     epel      
 python3-OWSLib.noarch                                             0.28.1-1.el8                                                      epel      
 python3-PyDrive.noarch                                            1.3.1-11.el8                                                      epel      
-python3-PyMySQL.noarch                                            0.10.1-2.module_el8.5.0+2569+5c5719bc                             appstream 
+python3-PyMySQL.noarch                                            0.10.1-2.module_el8.9.0+3700+efebe9fd                             appstream 
 python3-QtPy.noarch                                               1.10.0-1.el8                                                      epel      
 python3-ROPGadget.noarch                                          7.3-4.el8                                                         epel      
 python3-SoapySDR.x86_64                                           0.8.1-3.el8                                                       epel      
@@ -12575,7 +12575,7 @@ python3-breathe.noarch                                            4.11.1-2.el8  
 python3-brlapi.x86_64                                             0.6.7-32.el8                                                      appstream 
 python3-brotli.x86_64                                             1.0.6-3.el8                                                       appstream 
 python3-bsddb3.x86_64                                             6.2.6-5.el8                                                       epel      
-python3-bson.x86_64                                               3.7.0-1.module_el8.5.0+2569+5c5719bc                              appstream 
+python3-bson.x86_64                                               3.7.0-1.module_el8.9.0+3700+efebe9fd                              appstream 
 python3-bugzilla.noarch                                           3.2.0-1.el8                                                       epel      
 python3-bytesize.x86_64                                           1.4-3.el8                                                         appstream 
 python3-caca.x86_64                                               0.99-0.59.beta20.el8                                              epel      
@@ -12763,7 +12763,7 @@ python3-dionaea.x86_64                                            0.7.0-11.el8  
 python3-dirq.noarch                                               1.8-1.el8                                                         epel      
 python3-discord.noarch                                            1.4.1-1.el8                                                       epel      
 python3-distlib.noarch                                            0.3.0-1.el8                                                       epel      
-python3-distro.noarch                                             1.4.0-2.module_el8.5.0+2569+5c5719bc                              appstream 
+python3-distro.noarch                                             1.4.0-2.module_el8.9.0+3700+efebe9fd                              appstream 
 python3-distroinfo.noarch                                         0.5.0-1.el8                                                       epel      
 python3-distutils-extra.noarch                                    2.39-16.el8                                                       epel      
 python3-django-auth-ldap.noarch                                   2.2.0-1.el8                                                       epel      
@@ -12806,8 +12806,8 @@ python3-dnsgen.noarch                                             1.0.4-1.el8   
 python3-dnslib.noarch                                             0.9.21-1.el8                                                      epel      
 python3-docker.noarch                                             5.0.0-2.el8                                                       epel      
 python3-dockerpty.noarch                                          0.4.1-18.el8                                                      epel      
-python3-docs.noarch                                               3.6.7-2.module_el8.5.0+2569+5c5719bc                              appstream 
-python3-docutils.noarch                                           0.14-12.module_el8.5.0+2569+5c5719bc                              appstream 
+python3-docs.noarch                                               3.6.7-2.module_el8.9.0+3700+efebe9fd                              appstream 
+python3-docutils.noarch                                           0.14-12.module_el8.9.0+3700+efebe9fd                              appstream 
 python3-docx.noarch                                               0.8.11-3.el8                                                      epel      
 python3-dogpile-cache.noarch                                      0.6.8-1.el8.1                                                     epel      
 python3-dominate.noarch                                           2.5.1-1.el8                                                       epel      
@@ -13204,7 +13204,7 @@ python3-nispor.noarch                                             1.2.10-1.el8  
 python3-nitrate.noarch                                            1.8.2-1.el8                                                       epel      
 python3-nmap.noarch                                               0.6.1-15.el8                                                      epel      
 python3-nordugrid-arc.x86_64                                      6.18.0-1.el8                                                      epel      
-python3-nose.noarch                                               1.3.7-31.module_el8.5.0+2569+5c5719bc                             appstream 
+python3-nose.noarch                                               1.3.7-31.module_el8.9.0+3700+efebe9fd                             appstream 
 python3-nose-cover3.noarch                                        0.1.0-28.el8                                                      epel      
 python3-nose-timer.noarch                                         0.7.5-2.el8                                                       epel      
 python3-nose2.noarch                                              0.11.0-1.el8                                                      epel      
@@ -13375,7 +13375,7 @@ python3-pygame.x86_64                                             2.3.0-1.el8   
 python3-pyghmi.noarch                                             1.5.29-1.el8                                                      appstream 
 python3-pygit2.x86_64                                             0.26.4-1.el8                                                      epel      
 python3-pygithub.noarch                                           1.54.1-1.el8                                                      epel      
-python3-pygments.noarch                                           2.2.0-22.module_el8.5.0+2569+5c5719bc                             appstream 
+python3-pygments.noarch                                           2.2.0-22.module_el8.9.0+3700+efebe9fd                             appstream 
 python3-pygments-pytest.noarch                                    1.2.0-4.el8                                                       epel      
 python3-pygraphviz.x86_64                                         1.6-1.el8                                                         epel      
 python3-pygrib.x86_64                                             2.0.4-1.el8                                                       epel      
@@ -13394,8 +13394,8 @@ python3-pymediainfo.noarch                                        4.2.1-1.el8   
 python3-pymeeus.noarch                                            0.3.6-2.el8                                                       epel      
 python3-pymilter.x86_64                                           1.0.4-3.el8                                                       epel      
 python3-pymod2pkg.noarch                                          0.17.1-2.el8                                                      epel      
-python3-pymongo.x86_64                                            3.7.0-1.module_el8.5.0+2569+5c5719bc                              appstream 
-python3-pymongo-gridfs.x86_64                                     3.7.0-1.module_el8.5.0+2569+5c5719bc                              appstream 
+python3-pymongo.x86_64                                            3.7.0-1.module_el8.9.0+3700+efebe9fd                              appstream 
+python3-pymongo-gridfs.x86_64                                     3.7.0-1.module_el8.9.0+3700+efebe9fd                              appstream 
 python3-pymssql.x86_64                                            2.2.2-1.el8                                                       epel      
 python3-pynacl.x86_64                                             1.3.0-5.el8                                                       epel      
 python3-pynetbox.noarch                                           6.6.2-3.el8                                                       epel      
@@ -13502,7 +13502,7 @@ python3-recommonmark.noarch                                       0.6.0-3.git.el
 python3-redis.noarch                                              3.5.3-1.el8                                                       epel      
 python3-regenmaschine.noarch                                      2.1.0-1.el8                                                       epel      
 python3-regex.x86_64                                              2023.10.3-1.el8                                                   epel      
-python3-registry.noarch                                           1.3.1-2.el8                                                       epel      
+python3-registry.noarch                                           1.4-11.el8                                                        epel      
 python3-remctl.x86_64                                             3.17-4.el8                                                        epel      
 python3-remoto.noarch                                             1.2.1-1.el8                                                       epel      
 python3-rencode.x86_64                                            1.0.6-17.el8                                                      epel      
@@ -13580,7 +13580,7 @@ python3-scapy.noarch                                              2.4.3-2.el8   
 python3-schedule.noarch                                           0.6.0-2.el8                                                       epel      
 python3-schedutils.x86_64                                         0.6-6.el8                                                         baseos    
 python3-schema.noarch                                             0.7.3-1.el8                                                       epel      
-python3-scipy.x86_64                                              1.0.0-21.module_el8.5.0+2569+5c5719bc                             appstream 
+python3-scipy.x86_64                                              1.0.0-21.module_el8.9.0+3700+efebe9fd                             appstream 
 python3-scitokens.noarch                                          1.8.1-1.el8                                                       epel      
 python3-scour.noarch                                              0.35-10.el8                                                       appstream 
 python3-scp.noarch                                                0.14.1-1.el8                                                      epel      
@@ -13652,7 +13652,7 @@ python3-sphinxcontrib-asyncio.noarch                              0.2.0-2.el8   
 python3-sphinxcontrib-trio.noarch                                 1.1.2-1.el8                                                       epel      
 python3-spnego.noarch                                             0.1.1-2.el8                                                       epel      
 python3-spur.noarch                                               0.3.22-2.el8                                                      epel      
-python3-sqlalchemy.x86_64                                         1.3.2-2.module_el8.5.0+2569+5c5719bc                              appstream 
+python3-sqlalchemy.x86_64                                         1.3.2-2.module_el8.9.0+3700+efebe9fd.1                            appstream 
 python3-sqlalchemy_schemadisplay.noarch                           1.3-8.el8                                                         epel      
 python3-sqlparse.noarch                                           0.2.4-6.el8                                                       epel      
 python3-ssdp.noarch                                               1.0.1-1.el8                                                       epel      
@@ -13784,7 +13784,7 @@ python3-vici.noarch                                               5.9.10-1.el8  
 python3-vine.noarch                                               1.3.0-5.el8                                                       epel      
 python3-virt-firmware.noarch                                      23.11-1.el8                                                       epel      
 python3-virt-firmware-tests.noarch                                23.11-1.el8                                                       epel      
-python3-virtualenv.noarch                                         15.1.0-22.module_el8.8.0+3505+572914d3                            appstream 
+python3-virtualenv.noarch                                         15.1.0-22.module_el8.9.0+3700+efebe9fd                            appstream 
 python3-virtualenv-clone.noarch                                   0.5.4-1.el8                                                       epel      
 python3-volkszaehler.noarch                                       0.2.0-1.el8                                                       epel      
 python3-voluptuous.noarch                                         0.11.7-1.el8                                                      epel      
@@ -13808,8 +13808,8 @@ python3-webtest.noarch                                            2.0.33-1.el8  
 python3-webthing-ws.noarch                                        0.1.0-1.el8                                                       epel      
 python3-werkzeug.noarch                                           0.12.2-4.el8                                                      appstream 
 python3-whatever.noarch                                           0.6-3.el8                                                         epel      
-python3-wheel.noarch                                              1:0.31.1-3.module_el8.5.0+2569+5c5719bc                           appstream 
-python3-wheel-wheel.noarch                                        1:0.31.1-3.module_el8.5.0+2569+5c5719bc                           appstream 
+python3-wheel.noarch                                              1:0.31.1-3.module_el8.9.0+3700+efebe9fd                           appstream 
+python3-wheel-wheel.noarch                                        1:0.31.1-3.module_el8.9.0+3700+efebe9fd                           appstream 
 python3-whichcraft.noarch                                         0.6.1-1.el8                                                       epel      
 python3-whisper.noarch                                            1.1.10-1.el8                                                      epel      
 python3-whitenoise.noarch                                         5.1.0-1.el8                                                       epel      
@@ -13908,9 +13908,9 @@ python3.11-urllib3.noarch                                         1.26.12-1.el8 
 python3.11-wheel.noarch                                           0.38.4-4.el8                                                      appstream 
 python3.11-winrm.noarch                                           0.4.3-1.el8                                                       epel      
 python3.11-xmltodict.noarch                                       0.12.0-1.el8                                                      epel      
-python36-debug.x86_64                                             3.6.8-38.module_el8.5.0+2569+5c5719bc                             appstream 
-python36-devel.x86_64                                             3.6.8-38.module_el8.5.0+2569+5c5719bc                             appstream 
-python36-rpm-macros.noarch                                        3.6.8-38.module_el8.5.0+2569+5c5719bc                             appstream 
+python36-debug.x86_64                                             3.6.8-38.module_el8.9.0+3700+efebe9fd                             appstream 
+python36-devel.x86_64                                             3.6.8-38.module_el8.9.0+3700+efebe9fd                             appstream 
+python36-rpm-macros.noarch                                        3.6.8-38.module_el8.9.0+3700+efebe9fd                             appstream 
 python38.x86_64                                                   3.8.17-2.module_el8.9.0+3633+e453b53a                             appstream 
 python38-Cython.x86_64                                            0.29.14-4.module_el8.6.0+2778+cd494b30                            appstream 
 python38-PyMySQL.noarch                                           0.10.1-1.module_el8.6.0+2778+cd494b30                             appstream 
@@ -14405,7 +14405,7 @@ rd-agent-data.noarch                                              2.1.2-2.el8   
 rd-agent-selinux.noarch                                           2.1.2-2.el8                                                       epel      
 rd-hashd.x86_64                                                   2.1.2-2.el8                                                       epel      
 rdesktop.x86_64                                                   1.9.0-8.el8                                                       epel      
-rdiff-backup.x86_64                                               2.2.6-2.el8                                                       epel      
+rdiff-backup.x86_64                                               2.2.6-3.el8                                                       epel      
 rdma-core.i686                                                    46.0-1.el8.1                                                      baseos    
 rdma-core.x86_64                                                  46.0-1.el8.1                                                      baseos    
 rdma-core-devel.i686                                              46.0-1.el8.1                                                      baseos    

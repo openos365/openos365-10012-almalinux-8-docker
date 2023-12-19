@@ -607,7 +607,7 @@ python3.11.x86_64                           3.11.5-1.el8_9                      
 python3.11-libs.x86_64                      3.11.5-1.el8_9                                    @appstream
 python3.11-pip-wheel.noarch                 22.3.1-4.el8                                      @appstream
 python3.11-setuptools-wheel.noarch          65.5.1-2.el8                                      @appstream
-python36.x86_64                             3.6.8-38.module_el8.5.0+2569+5c5719bc             @appstream
+python36.x86_64                             3.6.8-38.module_el8.9.0+3700+efebe9fd             @appstream
 qemu-img.x86_64                             15:6.2.0-40.module_el8.9.0+3681+41cbbcc0.1.alma.1 @appstream
 qt5-srpm-macros.noarch                      5.15.3-1.el8                                      @appstream
 readline.x86_64                             7.0-10.el8                                        @System   
