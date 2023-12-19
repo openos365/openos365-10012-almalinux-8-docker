@@ -67,7 +67,7 @@ diffutils.x86_64                            3.6-6.el8                           
 distribution-gpg-keys.noarch                1.98-1.el8                                        @epel     
 dnf.noarch                                  4.7.0-19.el8.alma                                 @System   
 dnf-data.noarch                             4.7.0-19.el8.alma                                 @System   
-dnf-plugins-core.noarch                     4.0.21-23.el8                                     @baseos   
+dnf-plugins-core.noarch                     4.0.21-23.el8.alma.1                              @baseos   
 docbook-dtds.noarch                         1.0-69.el8                                        @appstream
 docbook-style-xsl.noarch                    1.79.2-9.el8                                      @appstream
 dosfstools.x86_64                           4.1-6.el8                                         @baseos   
@@ -384,9 +384,10 @@ openjpeg2.x86_64                            2.4.0-5.el8                         
 openldap.x86_64                             2.4.46-18.el8                                     @System   
 openssh.x86_64                              8.0p1-19.el8_8                                    @baseos   
 openssh-clients.x86_64                      8.0p1-19.el8_8                                    @baseos   
-openssl.x86_64                              1:1.1.1k-9.el8_7                                  @baseos   
-openssl-devel.x86_64                        1:1.1.1k-9.el8_7                                  @baseos   
-openssl-libs.x86_64                         1:1.1.1k-9.el8_7                                  @System   
+openssl.x86_64                              1:1.1.1k-12.el8_9                                 @baseos   
+openssl-devel.x86_64                        1:1.1.1k-12.el8_9                                 @baseos   
+openssl-libs.x86_64                         1:1.1.1k-12.el8_9                                 @baseos   
+openssl-pkcs11.x86_64                       0.4.10-3.el8                                      @baseos   
 os-prober.x86_64                            1.74-9.el8                                        @baseos   
 p11-kit.x86_64                              0.23.22-1.el8                                     @System   
 p11-kit-trust.x86_64                        0.23.22-1.el8                                     @System   
@@ -571,7 +572,7 @@ python3-cssselect.noarch                    0.9.2-10.el8                        
 python3-dateutil.noarch                     1:2.6.1-6.el8                                     @baseos   
 python3-dbus.x86_64                         1.2.4-15.el8                                      @baseos   
 python3-dnf.noarch                          4.7.0-19.el8.alma                                 @System   
-python3-dnf-plugins-core.noarch             4.0.21-23.el8                                     @baseos   
+python3-dnf-plugins-core.noarch             4.0.21-23.el8.alma.1                              @baseos   
 python3-docopt.noarch                       0.6.2-15.el8                                      @epel     
 python3-gpg.x86_64                          1.13.1-11.el8                                     @System   
 python3-hawkey.x86_64                       0.63.0-17.el8_9.alma                              @System   
