@@ -655,8 +655,8 @@ tar.x86_64                                                        2:1.30-9.el8  
 tbb.x86_64                                                        2018.2-9.el8                                                      @appstream
 tcl.x86_64                                                        1:8.6.8-2.el8                                                     @baseos   
 tpm2-tss.x86_64                                                   2.3.2-5.el8                                                       @System   
-tzdata.noarch                                                     2023c-1.el8                                                       @System   
-tzdata-java.noarch                                                2023c-1.el8                                                       @appstream
+tzdata.noarch                                                     2023d-1.el8                                                       @baseos   
+tzdata-java.noarch                                                2023d-1.el8                                                       @appstream
 udisks2.x86_64                                                    2.9.0-16.el8                                                      @appstream
 unzip.x86_64                                                      6.0-46.el8                                                        @baseos   
 urw-base35-bookman-fonts.noarch                                   20170801-10.el8                                                   @appstream
@@ -15426,7 +15426,7 @@ squashfuse.x86_64                                                 0.1.104-1.el8 
 squashfuse-devel.x86_64                                           0.1.104-1.el8                                                     epel      
 squashfuse-libs.x86_64                                            0.1.104-1.el8                                                     epel      
 squeezelite.x86_64                                                1.9.6.1205-3.20200103git1cff80e.el8                               epel      
-squid.x86_64                                                      7:4.15-7.module_el8.9.0+3696+b881db49.3                           appstream 
+squid.x86_64                                                      7:4.15-7.module_el8.9.0+3708+6acaac63.5                           appstream 
 squidGuard.x86_64                                                 1.4-36.el8                                                        epel      
 squidclamav.x86_64                                                7.3-1.el8                                                         epel      
 srain.x86_64                                                      1.0.2-1.el8                                                       epel      
