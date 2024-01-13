@@ -138,7 +138,7 @@ glibc-headers.x86_64                        2.28-236.el8.7                      
 glibc-minimal-langpack.x86_64               2.28-236.el8.7                                    @System   
 gmp.x86_64                                  1:6.1.2-10.el8                                    @System   
 gnupg2.x86_64                               2.2.20-3.el8_6                                    @System   
-gnutls.x86_64                               3.6.16-7.el8                                      @System   
+gnutls.x86_64                               3.6.16-8.el8_9                                    @baseos   
 go-srpm-macros.noarch                       2-17.el8                                          @appstream
 gobject-introspection.x86_64                1.56.1-1.el8                                      @baseos   
 google-droid-sans-fonts.noarch              20120715-13.el8                                   @appstream
@@ -248,7 +248,7 @@ libblockdev-swap.x86_64                     2.28-4.el8                          
 libblockdev-utils.x86_64                    2.28-4.el8                                        @appstream
 libburn.x86_64                              1.4.8-3.el8                                       @appstream
 libbytesize.x86_64                          1.4-3.el8                                         @appstream
-libcap.x86_64                               2.48-5.el8_8                                      @System   
+libcap.x86_64                               2.48-6.el8_9                                      @baseos   
 libcap-ng.x86_64                            0.7.11-1.el8                                      @System   
 libcom_err.x86_64                           1.45.6-5.el8                                      @System   
 libcom_err-devel.x86_64                     1.45.6-5.el8                                      @baseos   
@@ -339,7 +339,7 @@ libwebp.x86_64                              1.0.0-9.el8_9.1                     
 libxcb.x86_64                               1.13.1-1.el8                                      @appstream
 libxcrypt.x86_64                            4.1.1-6.el8                                       @System   
 libxcrypt-devel.x86_64                      4.1.1-6.el8                                       @baseos   
-libxml2.x86_64                              2.9.7-16.el8_8.1                                  @System   
+libxml2.x86_64                              2.9.7-18.el8_9                                    @baseos   
 libxmlb.x86_64                              0.1.15-1.el8                                      @baseos   
 libxslt.x86_64                              1.1.32-6.el8                                      @baseos   
 libyaml.x86_64                              0.1.7-5.el8                                       @System   
@@ -372,12 +372,12 @@ nettle.x86_64                               3.4.1-7.el8                         
 nftables.x86_64                             1:1.0.4-3.el8_9                                   @baseos   
 npth.x86_64                                 1.5-4.el8                                         @System   
 nspr.x86_64                                 4.35.0-1.el8_8                                    @appstream
-nss.x86_64                                  3.90.0-3.el8_8                                    @appstream
-nss-softokn.x86_64                          3.90.0-3.el8_8                                    @appstream
-nss-softokn-freebl.x86_64                   3.90.0-3.el8_8                                    @appstream
-nss-sysinit.x86_64                          3.90.0-3.el8_8                                    @appstream
-nss-tools.x86_64                            3.90.0-3.el8_8                                    @appstream
-nss-util.x86_64                             3.90.0-3.el8_8                                    @appstream
+nss.x86_64                                  3.90.0-4.el8_9                                    @appstream
+nss-softokn.x86_64                          3.90.0-4.el8_9                                    @appstream
+nss-softokn-freebl.x86_64                   3.90.0-4.el8_9                                    @appstream
+nss-sysinit.x86_64                          3.90.0-4.el8_9                                    @appstream
+nss-tools.x86_64                            3.90.0-4.el8_9                                    @appstream
+nss-util.x86_64                             3.90.0-4.el8_9                                    @appstream
 ocaml-srpm-macros.noarch                    5-4.el8                                           @appstream
 openblas-srpm-macros.noarch                 2-2.el8                                           @appstream
 openjpeg2.x86_64                            2.4.0-5.el8                                       @appstream
@@ -549,7 +549,7 @@ perl-utils.noarch                           5.26.3-422.el8.0.1                  
 perl-version.x86_64                         6:0.99.24-1.el8                                   @appstream
 pesign.x86_64                               0.112-27.el8_7                                    @appstream
 pigz.x86_64                                 2.4-4.el8                                         @baseos   
-pixman.x86_64                               0.38.4-2.el8                                      @appstream
+pixman.x86_64                               0.38.4-3.el8_9                                    @appstream
 pkgconf.x86_64                              1.4.2-1.el8                                       @baseos   
 pkgconf-m4.noarch                           1.4.2-1.el8                                       @baseos   
 pkgconf-pkg-config.x86_64                   1.4.2-1.el8                                       @baseos   
@@ -624,8 +624,8 @@ runc.x86_64                                 1:1.1.9-1.module_el8.9.0+3643+9234dc
 rust-srpm-macros.noarch                     5-2.el8                                           @appstream
 screen.x86_64                               4.6.2-12.el8                                      @epel     
 sed.x86_64                                  4.5-5.el8                                         @System   
-selinux-policy.noarch                       3.14.3-128.el8                                    @baseos   
-selinux-policy-targeted.noarch              3.14.3-128.el8                                    @baseos   
+selinux-policy.noarch                       3.14.3-128.el8_9.1                                @baseos   
+selinux-policy-targeted.noarch              3.14.3-128.el8_9.1                                @baseos   
 setup.noarch                                2.12.2-9.el8                                      @System   
 sgml-common.noarch                          0.6.3-50.el8                                      @baseos   
 shadow-utils.x86_64                         2:4.6-19.el8                                      @System   
@@ -653,6 +653,8 @@ tar.x86_64                                  2:1.30-9.el8                        
 tbb.x86_64                                  2018.2-9.el8                                      @appstream
 tcl.x86_64                                  1:8.6.8-2.el8                                     @baseos   
 tpm2-tss.x86_64                             2.3.2-5.el8                                       @System   
+trousers.x86_64                             0.3.15-1.el8                                      @baseos   
+trousers-lib.x86_64                         0.3.15-1.el8                                      @baseos   
 tzdata.noarch                               2023d-1.el8                                       @baseos   
 tzdata-java.noarch                          2023d-1.el8                                       @appstream
 udisks2.x86_64                              2.9.0-16.el8                                      @appstream
