@@ -8897,6 +8897,7 @@ lorax.x86_64                                                      28.14.70-1.el8
 lorax-composer.x86_64                                             28.14.70-1.el8                                                    appstream 
 lorax-lmc-novirt.x86_64                                           28.14.70-1.el8                                                    appstream 
 lorax-lmc-virt.x86_64                                             28.14.70-1.el8                                                    appstream 
+lorax-templates-almalinux.noarch                                  8.7-1.el8                                                         appstream 
 lorax-templates-generic.x86_64                                    28.14.70-1.el8                                                    appstream 
 lorax-templates-rhel.noarch                                       8.7-1.el8                                                         appstream 
 loudmouth.x86_64                                                  1.5.3-9.el8                                                       epel      
