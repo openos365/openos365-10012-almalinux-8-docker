@@ -345,7 +345,7 @@ libxslt.x86_64                              1.1.32-6.el8                        
 libyaml.x86_64                              0.1.7-5.el8                                @System   
 libzstd.x86_64                              1.4.4-1.el8                                @System   
 libzstd-devel.x86_64                        1.4.4-1.el8                                @baseos   
-linux-firmware.noarch                       20230824-119.git0e048b06.el8_9             @baseos   
+linux-firmware.noarch                       20230824-120.git0e048b06.el8_9             @baseos   
 lksctp-tools.x86_64                         1.0.18-3.el8                               @baseos   
 lsof.x86_64                                 4.93.2-1.el8                               @baseos   
 ltrace.x86_64                               0.7.91-28.el8                              @appstream
@@ -655,8 +655,8 @@ tcl.x86_64                                  1:8.6.8-2.el8                       
 tpm2-tss.x86_64                             2.3.2-5.el8                                @System   
 trousers.x86_64                             0.3.15-1.el8                               @baseos   
 trousers-lib.x86_64                         0.3.15-1.el8                               @baseos   
-tzdata.noarch                               2023d-1.el8                                @baseos   
-tzdata-java.noarch                          2023d-1.el8                                @appstream
+tzdata.noarch                               2024a-1.el8                                @baseos   
+tzdata-java.noarch                          2024a-1.el8                                @appstream
 udisks2.x86_64                              2.9.0-16.el8                               @appstream
 unzip.x86_64                                6.0-46.el8                                 @baseos   
 urw-base35-bookman-fonts.noarch             20170801-10.el8                            @appstream
