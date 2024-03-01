@@ -77,8 +77,8 @@ dpkg.x86_64                                                       1.20.9-4.el8  
 dracut.x86_64                                                     049-228.git20230802.el8                                           @baseos   
 dwz.x86_64                                                        0.12-10.el8                                                       @appstream
 dyninst.x86_64                                                    12.1.0-1.el8                                                      @appstream
-e2fsprogs.x86_64                                                  1.45.6-5.el8                                                      @baseos   
-e2fsprogs-libs.x86_64                                             1.45.6-5.el8                                                      @baseos   
+e2fsprogs.x86_64                                                  1.45.6-5.1.el8.alma.1                                             @baseos   
+e2fsprogs-libs.x86_64                                             1.45.6-5.1.el8.alma.1                                             @baseos   
 efi-filesystem.noarch                                             3-3.el8                                                           @baseos   
 efi-srpm-macros.noarch                                            3-3.el8                                                           @appstream
 efivar-libs.x86_64                                                37-4.el8                                                          @baseos   
@@ -253,8 +253,8 @@ libburn.x86_64                                                    1.4.8-3.el8   
 libbytesize.x86_64                                                1.4-3.el8                                                         @appstream
 libcap.x86_64                                                     2.48-6.el8_9                                                      @baseos   
 libcap-ng.x86_64                                                  0.7.11-1.el8                                                      @System   
-libcom_err.x86_64                                                 1.45.6-5.el8                                                      @System   
-libcom_err-devel.x86_64                                           1.45.6-5.el8                                                      @baseos   
+libcom_err.x86_64                                                 1.45.6-5.1.el8.alma.1                                             @baseos   
+libcom_err-devel.x86_64                                           1.45.6-5.1.el8.alma.1                                             @baseos   
 libcomps.x86_64                                                   0.1.18-1.el8                                                      @System   
 libcroco.x86_64                                                   0.6.12-4.el8_2.1                                                  @baseos   
 libcurl-minimal.x86_64                                            7.61.1-33.el8                                                     @System   
@@ -322,7 +322,7 @@ libslirp.x86_64                                                   4.4.0-1.module
 libsmartcols.x86_64                                               2.32.1-43.el8                                                     @System   
 libsmbios.x86_64                                                  2.4.1-2.el8                                                       @baseos   
 libsolv.x86_64                                                    0.7.20-6.el8                                                      @System   
-libss.x86_64                                                      1.45.6-5.el8                                                      @baseos   
+libss.x86_64                                                      1.45.6-5.1.el8.alma.1                                             @baseos   
 libstdc++.x86_64                                                  8.5.0-20.el8.alma                                                 @System   
 libstdc++-devel.x86_64                                            8.5.0-20.el8.alma                                                 @appstream
 libtasn1.x86_64                                                   4.13-4.el8_7                                                      @System   
@@ -2887,9 +2887,10 @@ e00compr.x86_64                                                   1.0.1-35.el8  
 e00compr-devel.x86_64                                             1.0.1-35.el8                                                      epel      
 e00compr-libs.x86_64                                              1.0.1-35.el8                                                      epel      
 e00compr-tools.x86_64                                             1.0.1-35.el8                                                      epel      
-e2fsprogs-devel.i686                                              1.45.6-5.el8                                                      baseos    
-e2fsprogs-devel.x86_64                                            1.45.6-5.el8                                                      baseos    
-e2fsprogs-libs.i686                                               1.45.6-5.el8                                                      baseos    
+e2fsprogs-devel.i686                                              1.45.6-5.1.el8.alma.1                                             baseos    
+e2fsprogs-devel.x86_64                                            1.45.6-5.1.el8.alma.1                                             baseos    
+e2fsprogs-libs.i686                                               1.45.6-5.1.el8.alma.1                                             baseos    
+e2scrub.x86_64                                                    1.45.6-5.1.el8.alma.1                                             extras    
 e3.x86_64                                                         2.82-8.el8                                                        epel      
 e_smi_tool.x86_64                                                 1.5.0^20220622gitf4ce871-3.el8                                    epel      
 earcut-hpp-devel.noarch                                           2.2.4-4.el8                                                       epel      
@@ -7228,8 +7229,8 @@ libcollectdclient.x86_64                                          5.9.0-5.el8   
 libcollectdclient-devel.x86_64                                    5.9.0-5.el8                                                       epel      
 libcollection.i686                                                0.7.0-40.el8                                                      baseos    
 libcollection.x86_64                                              0.7.0-40.el8                                                      baseos    
-libcom_err.i686                                                   1.45.6-5.el8                                                      baseos    
-libcom_err-devel.i686                                             1.45.6-5.el8                                                      baseos    
+libcom_err.i686                                                   1.45.6-5.1.el8.alma.1                                             baseos    
+libcom_err-devel.i686                                             1.45.6-5.1.el8.alma.1                                             baseos    
 libcomps.i686                                                     0.1.18-1.el8                                                      baseos    
 libconfig.i686                                                    1.5-9.el8                                                         baseos    
 libconfig.x86_64                                                  1.5-9.el8                                                         baseos    
@@ -8375,7 +8376,7 @@ libsquish.x86_64                                                  1.15-4.el8    
 libsquish-devel.x86_64                                            1.15-4.el8                                                        epel      
 libsrtp.i686                                                      1.5.4-8.el8                                                       appstream 
 libsrtp.x86_64                                                    1.5.4-8.el8                                                       appstream 
-libss.i686                                                        1.45.6-5.el8                                                      baseos    
+libss.i686                                                        1.45.6-5.1.el8.alma.1                                             baseos    
 libss7.x86_64                                                     2.0.1-5.el8                                                       epel      
 libss7-devel.x86_64                                               2.0.1-5.el8                                                       epel      
 libssh.i686                                                       0.9.6-13.el8_9                                                    baseos    

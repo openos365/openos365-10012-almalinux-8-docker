@@ -75,8 +75,8 @@ dpkg.x86_64                                 1.20.9-4.el8                        
 dracut.x86_64                               049-228.git20230802.el8                    @baseos   
 dwz.x86_64                                  0.12-10.el8                                @appstream
 dyninst.x86_64                              12.1.0-1.el8                               @appstream
-e2fsprogs.x86_64                            1.45.6-5.el8                               @baseos   
-e2fsprogs-libs.x86_64                       1.45.6-5.el8                               @baseos   
+e2fsprogs.x86_64                            1.45.6-5.1.el8.alma.1                      @baseos   
+e2fsprogs-libs.x86_64                       1.45.6-5.1.el8.alma.1                      @baseos   
 efi-filesystem.noarch                       3-3.el8                                    @baseos   
 efi-srpm-macros.noarch                      3-3.el8                                    @appstream
 efivar-libs.x86_64                          37-4.el8                                   @baseos   
@@ -251,8 +251,8 @@ libburn.x86_64                              1.4.8-3.el8                         
 libbytesize.x86_64                          1.4-3.el8                                  @appstream
 libcap.x86_64                               2.48-6.el8_9                               @baseos   
 libcap-ng.x86_64                            0.7.11-1.el8                               @System   
-libcom_err.x86_64                           1.45.6-5.el8                               @System   
-libcom_err-devel.x86_64                     1.45.6-5.el8                               @baseos   
+libcom_err.x86_64                           1.45.6-5.1.el8.alma.1                      @baseos   
+libcom_err-devel.x86_64                     1.45.6-5.1.el8.alma.1                      @baseos   
 libcomps.x86_64                             0.1.18-1.el8                               @System   
 libcroco.x86_64                             0.6.12-4.el8_2.1                           @baseos   
 libcurl-minimal.x86_64                      7.61.1-33.el8                              @System   
@@ -320,7 +320,7 @@ libslirp.x86_64                             4.4.0-1.module_el8.9.0+3717+81096349
 libsmartcols.x86_64                         2.32.1-43.el8                              @System   
 libsmbios.x86_64                            2.4.1-2.el8                                @baseos   
 libsolv.x86_64                              0.7.20-6.el8                               @System   
-libss.x86_64                                1.45.6-5.el8                               @baseos   
+libss.x86_64                                1.45.6-5.1.el8.alma.1                      @baseos   
 libstdc++.x86_64                            8.5.0-20.el8.alma                          @System   
 libstdc++-devel.x86_64                      8.5.0-20.el8.alma                          @appstream
 libtasn1.x86_64                             4.13-4.el8_7                               @System   
