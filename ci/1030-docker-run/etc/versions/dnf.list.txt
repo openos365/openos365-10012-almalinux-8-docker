@@ -2933,8 +2933,8 @@ editline-devel.x86_64                                             1.17.1-2.el8  
 editorconfig.x86_64                                               0.12.6-1.el8                                                      epel      
 editorconfig-devel.x86_64                                         0.12.6-1.el8                                                      epel      
 editorconfig-libs.x86_64                                          0.12.6-1.el8                                                      epel      
-edk2-aarch64.noarch                                               20220126gitbb1bba3d77-6.el8_9.3                                   appstream 
-edk2-ovmf.noarch                                                  20220126gitbb1bba3d77-6.el8_9.3                                   appstream 
+edk2-aarch64.noarch                                               20220126gitbb1bba3d77-6.el8_9.6.alma                              appstream 
+edk2-ovmf.noarch                                                  20220126gitbb1bba3d77-6.el8_9.6.alma                              appstream 
 ee4j-parent.noarch                                                1.0.1-2.module_el8.5.0+2589+0ec1386d                              appstream 
 efibootmgr.x86_64                                                 16-1.el8.0.1                                                      baseos    
 efifs.x86_64                                                      1.9-1.el8                                                         epel      
@@ -9113,9 +9113,9 @@ mate-menus-devel.x86_64                                           1.26.1-1.el8  
 mate-menus-libs.x86_64                                            1.26.1-1.el8                                                      epel      
 mate-menus-preferences-category-menu.x86_64                       1.26.1-1.el8                                                      epel      
 mate-notification-daemon.x86_64                                   1.26.1-1.el8                                                      epel      
-mate-panel.x86_64                                                 1.26.4-1.el8                                                      epel      
-mate-panel-devel.x86_64                                           1.26.4-1.el8                                                      epel      
-mate-panel-libs.x86_64                                            1.26.4-1.el8                                                      epel      
+mate-panel.x86_64                                                 1.26.4-2.el8                                                      epel      
+mate-panel-devel.x86_64                                           1.26.4-2.el8                                                      epel      
+mate-panel-libs.x86_64                                            1.26.4-2.el8                                                      epel      
 mate-polkit.x86_64                                                1.26.1-1.el8                                                      epel      
 mate-power-manager.x86_64                                         1.26.1-1.el8                                                      epel      
 mate-screensaver.x86_64                                           1.26.2-1.el8                                                      epel      
@@ -15118,8 +15118,8 @@ scalasca-mpich.x86_64                                             2.5-2.el8     
 scalasca-openmpi.x86_64                                           2.5-2.el8                                                         epel      
 scanless.noarch                                                   2.1.2-2.el8                                                       epel      
 scanssh.x86_64                                                    2.1.2-6.el8                                                       epel      
-scap-security-guide.noarch                                        0.1.69-2.el8_8.alma.1                                             appstream 
-scap-security-guide-doc.noarch                                    0.1.69-2.el8_8.alma.1                                             appstream 
+scap-security-guide.noarch                                        0.1.72-2.el8_9.alma.1                                             appstream 
+scap-security-guide-doc.noarch                                    0.1.72-2.el8_9.alma.1                                             appstream 
 scap-workbench.x86_64                                             1.2.0-8.el8                                                       appstream 
 scdoc.x86_64                                                      1.9.6-2.el8                                                       epel      
 schedtool.x86_64                                                  1.3.0-25.el8                                                      epel      
