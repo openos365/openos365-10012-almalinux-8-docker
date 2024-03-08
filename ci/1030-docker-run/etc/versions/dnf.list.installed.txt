@@ -106,7 +106,7 @@ fuse-libs.x86_64                            2.9.7-17.el8                        
 fuse-overlayfs.x86_64                       1.12-1.module_el8.9.0+3643+9234dc3b        @appstream
 fuse3.x86_64                                3.3.0-17.el8                               @baseos   
 fuse3-libs.x86_64                           3.3.0-17.el8                               @baseos   
-fwupd.x86_64                                1.7.8-2.el8                                @baseos   
+fwupd.x86_64                                1.7.8-2.el8.alma                           @baseos   
 gawk.x86_64                                 4.2.1-4.el8                                @System   
 gc.x86_64                                   7.6.4-3.el8                                @appstream
 gcc.x86_64                                  8.5.0-20.el8.alma                          @appstream

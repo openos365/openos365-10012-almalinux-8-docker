@@ -108,7 +108,7 @@ fuse-libs.x86_64                                                  2.9.7-17.el8  
 fuse-overlayfs.x86_64                                             1.12-1.module_el8.9.0+3643+9234dc3b                               @appstream
 fuse3.x86_64                                                      3.3.0-17.el8                                                      @baseos   
 fuse3-libs.x86_64                                                 3.3.0-17.el8                                                      @baseos   
-fwupd.x86_64                                                      1.7.8-2.el8                                                       @baseos   
+fwupd.x86_64                                                      1.7.8-2.el8.alma                                                  @baseos   
 gawk.x86_64                                                       4.2.1-4.el8                                                       @System   
 gc.x86_64                                                         7.6.4-3.el8                                                       @appstream
 gcc.x86_64                                                        8.5.0-20.el8.alma                                                 @appstream
@@ -2403,9 +2403,9 @@ createrepo_c-libs.x86_64                                          0.17.7-6.el8  
 crit.x86_64                                                       3.18-4.module_el8.9.0+3717+81096349                               appstream 
 criu-devel.x86_64                                                 3.18-4.module_el8.9.0+3717+81096349                               appstream 
 criu-libs.x86_64                                                  3.18-4.module_el8.9.0+3717+81096349                               appstream 
-cronie.x86_64                                                     1.5.2-8.el8                                                       baseos    
-cronie-anacron.x86_64                                             1.5.2-8.el8                                                       baseos    
-cronie-noanacron.x86_64                                           1.5.2-8.el8                                                       baseos    
+cronie.x86_64                                                     1.5.2-8.el8.alma.1                                                baseos    
+cronie-anacron.x86_64                                             1.5.2-8.el8.alma.1                                                baseos    
+cronie-noanacron.x86_64                                           1.5.2-8.el8.alma.1                                                baseos    
 cronolog.x86_64                                                   1.6.2-34.el8                                                      epel      
 crontabs.noarch                                                   1.11-17.20190603git.el8                                           baseos    
 cros-garcon.noarch                                                1.0-0.39.20200806git19eab9e.el8                                   epel      
@@ -15467,7 +15467,7 @@ squashfuse.x86_64                                                 0.1.104-1.el8 
 squashfuse-devel.x86_64                                           0.1.104-1.el8                                                     epel      
 squashfuse-libs.x86_64                                            0.1.104-1.el8                                                     epel      
 squeezelite.x86_64                                                1.9.6.1205-3.20200103git1cff80e.el8                               epel      
-squid.x86_64                                                      7:4.15-7.module_el8.9.0+3708+6acaac63.5                           appstream 
+squid.x86_64                                                      7:4.15-7.module_el8.9.0+3742+967e5cef.5.alma.1                    appstream 
 squidGuard.x86_64                                                 1.4-36.el8                                                        epel      
 squidclamav.x86_64                                                7.3-1.el8                                                         epel      
 srain.x86_64                                                      1.0.2-1.el8                                                       epel      
