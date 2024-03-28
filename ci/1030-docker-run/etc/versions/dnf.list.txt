@@ -2109,10 +2109,10 @@ cheese.x86_64                                                     2:3.28.0-4.el8
 cheese-libs.i686                                                  2:3.28.0-4.el8_6                                                  appstream 
 cheese-libs.x86_64                                                2:3.28.0-4.el8_6                                                  appstream 
 chrome-gnome-shell.x86_64                                         42.1-1.el8                                                        appstream 
-chromedriver.x86_64                                               122.0.6261.111-1.el8                                              epel      
-chromium.x86_64                                                   122.0.6261.111-1.el8                                              epel      
-chromium-common.x86_64                                            122.0.6261.111-1.el8                                              epel      
-chromium-headless.x86_64                                          122.0.6261.111-1.el8                                              epel      
+chromedriver.x86_64                                               122.0.6261.128-1.el8                                              epel      
+chromium.x86_64                                                   122.0.6261.128-1.el8                                              epel      
+chromium-common.x86_64                                            122.0.6261.128-1.el8                                              epel      
+chromium-headless.x86_64                                          122.0.6261.128-1.el8                                              epel      
 chrony.x86_64                                                     4.2-1.el8                                                         baseos    
 chrpath.x86_64                                                    0.16-7.el8                                                        baseos    
 chunkfs.x86_64                                                    0.8-1.el8                                                         epel      
@@ -13550,6 +13550,7 @@ python3-pywizlight.noarch                                         0.3.4-1.el8   
 python3-pyxdg.noarch                                              0.25-16.el8                                                       appstream 
 python3-pyxs.noarch                                               0.4.1-9.el8                                                       epel      
 python3-pyzabbix.noarch                                           1.0.0-3.el8                                                       epel      
+python3-qgis.x86_64                                               3.18.3-3.el8                                                      epel      
 python3-qpid-proton.x86_64                                        0.37.0-1.el8                                                      epel      
 python3-qrcode.noarch                                             5.1-12.module_el8.6.0+2737+7e73ea90                               appstream 
 python3-qrcode-core.noarch                                        5.1-12.module_el8.6.0+2737+7e73ea90                               appstream 
@@ -14158,6 +14159,10 @@ qemu-kvm-docs.x86_64                                              15:6.2.0-40.mo
 qemu-kvm-hw-usbredir.x86_64                                       15:6.2.0-40.module_el8.9.0+3714+46544554.2                        appstream 
 qemu-kvm-ui-opengl.x86_64                                         15:6.2.0-40.module_el8.9.0+3714+46544554.2                        appstream 
 qemu-kvm-ui-spice.x86_64                                          15:6.2.0-40.module_el8.9.0+3714+46544554.2                        appstream 
+qgis.x86_64                                                       3.18.3-3.el8                                                      epel      
+qgis-devel.x86_64                                                 3.18.3-3.el8                                                      epel      
+qgis-grass.x86_64                                                 3.18.3-3.el8                                                      epel      
+qgis-server.x86_64                                                3.18.3-3.el8                                                      epel      
 qgnomeplatform.i686                                               0.7.1-3.el8                                                       appstream 
 qgnomeplatform.x86_64                                             0.7.1-3.el8                                                       appstream 
 qgpgme.i686                                                       1.13.1-11.el8                                                     appstream 
